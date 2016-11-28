@@ -1,12 +1,10 @@
 <html>
-    <body>
-        <head>
-            <link rel="stylesheet" type="text/css" href="style.css">
-            <title>Owen's Report an Abduction</title>
-        </head>
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Owen's Report an Abduction</title>
 
-            <h2>Aliens Abducted Me - Report and Abduction</h2>
-
+<body>
+            <h2>Aliens Abducted Me - Report and Abduction222222222</h2>
             <p>Share your story of alien abduction:</p>
             <form method="post" action="mailto:soren@spangsberg.net">
                 <label for="firstname">First name:</label>
@@ -34,8 +32,5 @@
                 <textarea id="other" name="other"> </textarea><br />
                 <input type="submit" value="Report Abduction" name="submit" /><br />
             </form>
-
     </body>
-
-
 </html>

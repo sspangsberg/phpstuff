@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="spangsberg.net">
+  <component name="PublishConfigData" serverName="spangsberg.net" uploadOnCheckin="c6970d26-88b5-40c6-986e-576c7e74e01e">
     <serverData>
       <paths name="spangsberg.net">
         <serverdata>
@@ -10,5 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="spangsberg.net" />
   </component>
 </project>
