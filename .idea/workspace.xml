@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fb17cda-5823-4dac-ae21-143e59d41d33" name="Default" comment="+ changed form to send to handleReport.php instead of mailto">
+    <list default="true" id="3fb17cda-5823-4dac-ae21-143e59d41d33" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handleReport.php" afterPath="$PROJECT_DIR$/handleReport.php" />
     </list>
@@ -38,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/handleReport.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
-              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -210,7 +210,7 @@
       <workItem from="1480335596713" duration="222000" />
       <workItem from="1480335835251" duration="3454000" />
       <workItem from="1480339306726" duration="73000" />
-      <workItem from="1480425341641" duration="3352000" />
+      <workItem from="1480425341641" duration="3389000" />
     </task>
     <task id="LOCAL-00001" summary="Casual change">
       <created>1480337074969</created>
@@ -331,11 +331,18 @@
       <option name="project" value="LOCAL" />
       <updated>1480431109199</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="+ changed form to send to handleReport.php instead of mailto">
+      <created>1480431406180</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1480431406180</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13870000" />
+    <option name="totallyTimeSpent" value="13907000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1932" height="1092" extended-state="0" />
@@ -540,7 +547,7 @@
     <entry file="file://$PROJECT_DIR$/handleReport.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
           <folding />
         </state>
       </provider>
