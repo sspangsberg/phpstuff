@@ -2,6 +2,13 @@
 <project version="4">
   <component name="PublishConfigData" serverName="spangsberg.net" uploadOnCheckin="c6970d26-88b5-40c6-986e-576c7e74e01e">
     <serverData>
+      <paths name="examserver60.dk">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/phpstuff" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="spangsberg.net">
         <serverdata>
           <mappings>

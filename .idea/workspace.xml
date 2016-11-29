@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fb17cda-5823-4dac-ae21-143e59d41d33" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/webServers.xml" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="Stuff.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,8 +28,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="440">
+              <caret line="20" column="58" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -199,7 +200,7 @@
       <workItem from="1480335596713" duration="222000" />
       <workItem from="1480335835251" duration="3454000" />
       <workItem from="1480339306726" duration="73000" />
-      <workItem from="1480425341641" duration="28000" />
+      <workItem from="1480425341641" duration="1717000" />
     </task>
     <task id="LOCAL-00001" summary="Casual change">
       <created>1480337074969</created>
@@ -285,11 +286,25 @@
       <option name="project" value="LOCAL" />
       <updated>1480339347016</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Added ordered list">
+      <created>1480425380272</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1480425380272</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added ordered list">
+      <created>1480427123532</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1480427123532</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10546000" />
+    <option name="totallyTimeSpent" value="12235000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1932" height="1092" extended-state="0" />
@@ -300,6 +315,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19398642" sideWeight="0.50208986" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19371727" sideWeight="0.49791014" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -309,7 +325,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19398642" sideWeight="0.49791014" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -336,7 +351,8 @@
     <MESSAGE value="sdfgdfgsdfg" />
     <MESSAGE value="sdfgdfgsdfg2222222" />
     <MESSAGE value="just training" />
-    <option name="LAST_COMMIT_MESSAGE" value="just training" />
+    <MESSAGE value="Added ordered list" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added ordered list" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -483,14 +499,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="440">
+          <caret line="20" column="58" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="58" />
           <folding />
         </state>
       </provider>
     </entry>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAAwFayFSvXmwR7CkgVWPf7dAHRq+LMJZvnAsuxx5IrpcC9S0yetvOYGGoWJR3Yr/k2Ecsi7Axno5U2D/pGJ2sj8Uh7s8gh+rxH2KLVfq80bGQLzpW1MPHFBHw5YBcmZzWoG5xIBUwpZqLXomNfhVuLJ1nSJT4S0YSz16J5c4/cyLywMI6AiXT27/huJAhnoVifCInzuo+f3xXriAk4LO2RfCRNtynAn48oGD9UCtsXgbtzaU/LlY9ZvOKM8TsrMNouzoHY8bhqI3E1UGBkRdmPqQo=</data>
+    <data>AAABMCoYnQgha7Y+8GxOTyUdo6jDbTLGRh09Yeo4Rhz4p5nbKX0WsXZT/bLjKTnRXkV5QjcPItcCfAPUDM5zvv9TXvYr4no8m3xSgGEdM197u0OMnxkxZuHpFqFaGuo9Nsn+VTV9rAvkcs/lPQ6FNFu2w5v7q8JKk0RMM9AxKFCFXuQ7DgabRXaTjkVJjFoS8EPDDLnZQ9ss+d4loAtssaGo6SEZE/Q85pEUiGY22wWgSY6aqmwOE6Td4rS3XGNWkJ8KsuApV4oAVkuOthZISsRn8i+T25Z4PCaI5OEIccVVt1aDzeDXRclGFD97Mm7SoWcWT7Lsf/0B/CWzbtf2fETKuplcvnSE8ZXS5NKxAhnhBDaBivnj09xAfIOM8wslKqAAGG0y9DWSacS0aBIW/qkl0qCjvcWng1dU6E4+B+GN90zN</data>
   </component>
 </project>
