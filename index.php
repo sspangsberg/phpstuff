@@ -7,7 +7,7 @@
 
     <h2>Aliens Abducted Me - Report and Abduction</h2>
     <p>Share your story of alien abduction:</p>
-    <form method="post" action="mailto:soren@spangsberg.net">
+    <form method="post" action="handleReport.php">
         <label for="firstname">First name:</label>
         <input type="text" id="firstname" name="firstname"/><br/>
         <label for="lastname">Last name:</label>
