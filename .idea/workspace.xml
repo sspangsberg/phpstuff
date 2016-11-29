@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fb17cda-5823-4dac-ae21-143e59d41d33" name="Default" comment="sdfgdfgsdfg2222222">
+    <list default="true" id="3fb17cda-5823-4dac-ae21-143e59d41d33" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
@@ -27,8 +27,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+            <state relative-caret-position="264">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -69,7 +69,7 @@
     <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="1932" />
-    <option name="height" value="1168" />
+    <option name="height" value="1092" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -96,8 +96,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -118,6 +116,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -198,7 +198,8 @@
       <workItem from="1480335512057" duration="61000" />
       <workItem from="1480335596713" duration="222000" />
       <workItem from="1480335835251" duration="3454000" />
-      <workItem from="1480339306726" duration="25000" />
+      <workItem from="1480339306726" duration="73000" />
+      <workItem from="1480425341641" duration="28000" />
     </task>
     <task id="LOCAL-00001" summary="Casual change">
       <created>1480337074969</created>
@@ -277,14 +278,21 @@
       <option name="project" value="LOCAL" />
       <updated>1480338610920</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="just training">
+      <created>1480339347016</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1480339347016</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10470000" />
+    <option name="totallyTimeSpent" value="10546000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1932" height="1168" extended-state="0" />
+    <frame x="-9" y="-9" width="1932" height="1092" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2413793" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -301,7 +309,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19398642" sideWeight="0.49791014" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19398642" sideWeight="0.49791014" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -327,13 +335,22 @@
     <MESSAGE value="Casual change #2" />
     <MESSAGE value="sdfgdfgsdfg" />
     <MESSAGE value="sdfgdfgsdfg2222222" />
-    <option name="LAST_COMMIT_MESSAGE" value="sdfgdfgsdfg2222222" />
+    <MESSAGE value="just training" />
+    <option name="LAST_COMMIT_MESSAGE" value="just training" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -466,14 +483,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+        <state relative-caret-position="264">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAAwIHcgu2+QgRCM3Eu5e+LHq+xdIzlbVkKo3qNpRW1dnL7jDfbI7m/Lkfi+oAMReCaG5MWkzezQ1mpHrNaxa0+mNSvVmPHtn0qRFD0y9mktpSnu3p5cJKGrQif/luJPUR6aECSOEPmwyq2BH8yfSW5v5sFJFc2l6w0YpzjJEUzStrb1Ako39hFlCTnFymlEArwLWnYhm4lBfKXsnNFpzgt0Yv4sS2YNYb/n8DJi0MqTLxO1sls/q6B4ZIyYouZUSZSDbMCs7zkvKzN7+sqmV8dkiQ=</data>
+    <data>AAAAwFayFSvXmwR7CkgVWPf7dAHRq+LMJZvnAsuxx5IrpcC9S0yetvOYGGoWJR3Yr/k2Ecsi7Axno5U2D/pGJ2sj8Uh7s8gh+rxH2KLVfq80bGQLzpW1MPHFBHw5YBcmZzWoG5xIBUwpZqLXomNfhVuLJ1nSJT4S0YSz16J5c4/cyLywMI6AiXT27/huJAhnoVifCInzuo+f3xXriAk4LO2RfCRNtynAn48oGD9UCtsXgbtzaU/LlY9ZvOKM8TsrMNouzoHY8bhqI3E1UGBkRdmPqQo=</data>
   </component>
 </project>

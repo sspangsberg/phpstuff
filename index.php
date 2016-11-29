@@ -4,6 +4,16 @@
     <title>Owen's Report an Abduction_weeeeee</title>
 
 <body>
+
+<ol>
+    <li>Responsive Web Design</li>
+    <li>HTML/CSS</li>
+    <li>JavaScript</li>
+    <li>PHP</li>
+</ol>
+
+
+
             <h2>Aliens Abducted Me - Report and Abduction</h2>
             <p>Share your story of alien abduction:</p>
             <form method="post" action="mailto:soren@spangsberg.net">
